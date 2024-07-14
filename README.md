@@ -1,5 +1,7 @@
+
 # Myn Zen 
- 
+Myn Zen is designed to create an addictive, engaging, and interactive shopping experience that keeps users hooked while fostering habitual use, ultimately enhancing conversion rates for fashion retailers. By utilizing cutting-edge technologies like React and Vite, we ensure a high-performance application ready for the demands of modern e-commerce.
+
 ![Screenshot 2024-07-14 at 8 40 31 PM](https://github.com/user-attachments/assets/c43b3c0d-64c4-4a32-a551-194e1b6ce8dd)
 
 ## Overview
