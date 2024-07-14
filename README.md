@@ -76,7 +76,7 @@ https://drive.google.com/file/d/1memHR01hAvJjm69gYlPriLR42PicMFWw/view?usp=shari
 
 
 
-## Screenshot
+## Screenshots
 
 1. **Daily Login Reward**: 
 ![image](https://github.com/user-attachments/assets/17670b39-a0bb-42be-b2a1-3996073c85f4)
