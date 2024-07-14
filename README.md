@@ -1,4 +1,6 @@
-# Myntra Zen 
+# Myn Zen 
+
+New Age Shopping Experience : Myn-Zen Is A Complete Solution That Revolutionizes The Shopping Experience By Gamifying Engagement and hooking Gen Z Users With Habit-forming Features And Dynamic Rewards.
 ![image](https://github.com/user-attachments/assets/39789d00-22ca-42e9-87dc-a72a1f8708ad)
 
 
