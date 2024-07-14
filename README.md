@@ -1,5 +1,6 @@
 # Myntra Zen 
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/39789d00-22ca-42e9-87dc-a72a1f8708ad)
+
 
 ## Overview
 
