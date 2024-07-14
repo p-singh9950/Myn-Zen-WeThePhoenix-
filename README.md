@@ -6,7 +6,7 @@ The **Myntra Zen App** is a pioneering prototype meticulously crafted for Genera
 
 ### Objectives
 
-The primary objectives of the Myntra Zen App include:
+The primary objectives of the Myn Zen App include:
 
 - **Enhancing User Engagement**: By integrating gamified elements that encourage regular interaction and participation.
 - **Simplifying the Shopping Process**: Providing intuitive features that make browsing and selecting outfits enjoyable and effortless.
