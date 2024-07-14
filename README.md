@@ -73,3 +73,30 @@ https://drive.google.com/file/d/1memHR01hAvJjm69gYlPriLR42PicMFWw/view?usp=shari
 ### Presentation 
 
 ### Flow Video
+
+
+
+## Screenshot
+
+1. **Daily Login Reward**: 
+![image](https://github.com/user-attachments/assets/17670b39-a0bb-42be-b2a1-3996073c85f4)
+![image](https://github.com/user-attachments/assets/a7f1c697-e88b-458d-9786-6dcaa3084acc)
+
+2. **Fashion Challenges**:
+![image](https://github.com/user-attachments/assets/6a95891f-fa9c-429d-9a1f-74594ed83fdf)
+![image](https://github.com/user-attachments/assets/e3ead8fb-7bbd-4a27-bd9b-c3fd9a907b82)
+
+
+3. **My Wardrobe**:
+ ![image](https://github.com/user-attachments/assets/3c7bee68-d894-417f-9e57-e17b8c697487)
+ ![image](https://github.com/user-attachments/assets/117bdb90-25d7-4263-9625-4c7c3555e207)
+ ![image](https://github.com/user-attachments/assets/9d76eef5-de45-4ff1-b924-c8d24870299b)
+
+
+4. **Live Look**:
+ ![image](https://github.com/user-attachments/assets/222e049a-8c83-4c3f-a20d-a5a7211ef824)
+
+5. **Mix and Match**:
+ ![image](https://github.com/user-attachments/assets/4c0de524-db3a-4b51-9720-6dd4232deb47)
+
+ ![image](https://github.com/user-attachments/assets/2aa9d15d-dd5b-4774-8892-a6957fec09a5)
