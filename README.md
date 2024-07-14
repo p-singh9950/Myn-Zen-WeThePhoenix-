@@ -46,15 +46,15 @@ Begin by cloning the GitHub repository to your local machine. This will download
 git clone https://github.com/your-username/myntra-zen-app.git
 cd myntra-zen-app
 
+Install Dependencies
+npm install
+npm run dev
 
 
+React + Vite
+This project employs a minimal setup to get React up and running in Vite, utilizing Hot Module Replacement (HMR) for seamless development. Vite is chosen for its speed and efficiency, enabling rapid prototyping and iteration.
 
+Official Plugins
+1. @vitejs/plugin-react: This plugin incorporates Babel for Fast Refresh, allowing for an enhanced development experience with hot reloading and efficient state preservation during edits.
 
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+2. @vitejs/plugin-react-swc: An alternative to the Babel plugin, this option uses SWC, a super-fast compiler written in Rust, to achieve Fast Refresh with improved performance and reduced build times.
