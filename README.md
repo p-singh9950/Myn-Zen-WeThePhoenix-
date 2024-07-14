@@ -46,4 +46,19 @@ Begin by cloning the GitHub repository to your local machine. This will download
 
 ```bash
 git clone https://github.com/your-username/myntra-zen-app.git
-cd myntra-zen-app
+cd myn-zen
+
+### Install Dependencies
+After navigating into the project directory, install the required dependencies using npm. This step ensures that all necessary packages are available for the application to function correctly.
+
+npm install
+npm start
+
+const firebaseConfig = {
+  apiKey: "YOUR_API_KEY",
+  authDomain: "YOUR_AUTH_DOMAIN",
+  projectId: "YOUR_PROJECT_ID",
+  storageBucket: "YOUR_STORAGE_BUCKET",
+  messagingSenderId: "YOUR_MESSAGING_SENDER_ID",
+  appId: "YOUR_APP_ID"
+};
