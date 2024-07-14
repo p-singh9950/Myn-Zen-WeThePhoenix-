@@ -1,5 +1,6 @@
-# Myntra Zen App
-  
+# Myntra Zen 
+![Uploading image.png…]()
+
 ## Overview
 
 The **Myntra Zen App** is a pioneering prototype meticulously crafted for Generation Z, aimed at revolutionizing the online shopping experience. This application transcends the conventional boundaries of a shopping tool; it emerges as a multifaceted, engaging platform that synergizes gamification, user interactivity, and seamless integration with Firebase. Utilizing **React** for a dynamic front-end and **Tailwind CSS** for a modern responsive design, the Myntra Zen App is engineered to captivate and retain the attention of its youthful audience.
