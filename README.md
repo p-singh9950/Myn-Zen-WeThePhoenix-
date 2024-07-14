@@ -1,5 +1,5 @@
 # Myntra Zen App
-
+  
 ## Overview
 
 The **Myntra Zen App** is a pioneering prototype meticulously crafted for Generation Z, aimed at revolutionizing the online shopping experience. This application transcends the conventional boundaries of a shopping tool; it emerges as a multifaceted, engaging platform that synergizes gamification, user interactivity, and seamless integration with Firebase. Utilizing **React** for a dynamic front-end and **Tailwind CSS** for a modern responsive design, the Myntra Zen App is engineered to captivate and retain the attention of its youthful audience.
@@ -8,7 +8,7 @@ The **Myntra Zen App** is a pioneering prototype meticulously crafted for Genera
 
 The primary objectives of the Myntra Zen App include:
 
-- Enhancing User Engagement: By integrating gamified elements that encourage regular interaction and participation.
+- **Enhancing User Engagement**: By integrating gamified elements that encourage regular interaction and participation.
 - **Simplifying the Shopping Process**: Providing intuitive features that make browsing and selecting outfits enjoyable and effortless.
 - **Building a Community**: Creating a platform where users can share their fashion choices and challenges, fostering a sense of belonging and connection.
 
