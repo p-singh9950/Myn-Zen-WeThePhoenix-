@@ -1,4 +1,6 @@
-# Myntra Zen 
+# Myn Zen 
+ 
+![Screenshot 2024-07-14 at 8 40 31 PM](https://github.com/user-attachments/assets/c43b3c0d-64c4-4a32-a551-194e1b6ce8dd)
 
 ## Overview
 
