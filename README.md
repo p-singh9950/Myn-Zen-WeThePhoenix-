@@ -66,16 +66,7 @@ const firebaseConfig = {
 };
 
 ```
-## Demo and Flow Videos + Presentation
-### Demo Video 
-https://drive.google.com/file/d/1memHR01hAvJjm69gYlPriLR42PicMFWw/view?usp=sharing 
-
-### Presentation 
-
-### Flow Video
-https://drive.google.com/file/d/1dfhlt9V75l1w_irnS-PKMO3FDEl6qnS6/view?usp=sharing
-
-
+ 
 
 ## Screenshots
 
